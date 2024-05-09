@@ -1,0 +1,6 @@
+<GroupConfiguration>
+    <accessgroup desc = "Administrators">
+        <group action = "U"/> 
+            <add member = "SSID"/>
+    </accessgroup>
+</GroupConfiguration>
